@@ -1,5 +1,5 @@
 
-- 👋 Greetings, I'm THushara Thilan
+- 👋 Greetings, I'm Thushara Thilan
 - 👀 My curiosity is captivated by the realms of programming, cyber security and ethical hacking.
 - 🌱 Currently, I'm engrossed in the intricacies of Python, Java while also diving into the fascinating domain of penetration testing techniques with other programming languagers
 - 💞️ I'm earnestly seeking opportunities to collaborate on open-source projects that revolve around programming and cyber security. Additionally, I'm keen to join forces for any exciting Capture the Flag (CTF) events.
