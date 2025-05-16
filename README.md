@@ -75,13 +75,28 @@
 > You can copy this into your `README.md` file and adjust sections, order, or add new ones as needed.
 
 If you meant something **entirely different**, like a working app, backend code, or system — please clarify the **exact goal** and I’ll give you the complete code for that.
+<h2 align="center">📊 GitHub Stats</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LUC1F3R-99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    style="width: 80%;" /><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=LUC1F3R-99&theme=dark&hide_border=false"
+    style="width: 80%;" /><br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    style="width: 80%;" />
+</div>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    style="width: 80%;" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
