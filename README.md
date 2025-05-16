@@ -1,5 +1,6 @@
-<h1 align="center">Hello World!!<br>I'm Thushara Thilan<br>Welcome to my fortress</h1>
-
+<div align="center">
+  <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThsdWJzcXltYXljeXE4d3l6aTI4YW0xaDNvc3pxdGs3YTEzYWllbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZNgxWr6PYCg8DVuZVh/giphy.gif"  />
+</div>
 ###
 
 # 💻 Tech Stack
