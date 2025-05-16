@@ -79,17 +79,18 @@ If you meant something **entirely different**, like a working app, backend code,
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=LUC1f3R-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     style="width: 80%;" /><br/>
 
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=LUC1F3R-99&theme=dark&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=LUC1f3R-0&theme=dark&hide_border=false"
     style="width: 80%;" /><br/>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1F3R-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1f3R-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     style="width: 80%;" />
 </div>
+<!-- ![]() -->
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
